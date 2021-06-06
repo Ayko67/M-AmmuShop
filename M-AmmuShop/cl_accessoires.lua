@@ -92,4 +92,4 @@ local position = {
                 SetEntityInvincible(ped, true) -- Le rend invincible 
             end)
         
-        ------------ BY Mojitoo ------------    
+        ------------ BY Ayko#6666 ------------    
